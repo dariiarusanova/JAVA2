@@ -1,5 +1,4 @@
 package Les2;
-
 public class Methods {
 
 
@@ -53,3 +52,4 @@ public class Methods {
 
     }
 }
+

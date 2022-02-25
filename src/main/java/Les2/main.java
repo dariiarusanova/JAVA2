@@ -1,6 +1,4 @@
 package Les2;
-
-
 import static Les2.Methods.Method_Kvardrat;
 //3. В методе main() вызвать полученный метод,
 //        обработать возможные исключения MySizeArrayException и MyArrayDataException и вывести результат расчета.
@@ -21,3 +19,4 @@ public class main {
     }
 
 }
+
